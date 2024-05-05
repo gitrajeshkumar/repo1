@@ -1,13 +1,13 @@
 # repo1
 Testing the repo1
 
-1. 
+1. Elephant
 
-2.
+2. crab
 
-3.
+3. parrot
 
-4.
+4.chamalleon
 
 This workshop is great , let's add more animals.
 
